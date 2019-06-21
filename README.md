@@ -8,6 +8,8 @@ Login with your AR wallet and paint on Canvas Draw. Simple painting app, minimal
 
 Live example at: [https://arweave.net/iERxf7S9wvoIP5KCREh6dxeHahM2zVkurNcbkNx3B50](https://arweave.net/iERxf7S9wvoIP5KCREh6dxeHahM2zVkurNcbkNx3B50)
 
+See it in Arweave Apps: [https://arweave.net/35IFq9BcIgpSPti9YDYDiaQy4wMfMIKZ25t7hHZrhek](https://arweave.net/35IFq9BcIgpSPti9YDYDiaQy4wMfMIKZ25t7hHZrhek)
+
 ## 2 | Getting Started
 
 Install dependencies within client.
