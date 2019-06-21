@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import './App.css';
-import { SketchField, Tools } from 'react-sketch';
+import CanvasDraw from "react-canvas-draw";
 
 function App() {
   const [wallet, setWallet] = useState({});
@@ -53,14 +53,14 @@ function App() {
           </a>
         </header>
         <div style={{ display: 'flex', justifyContent: 'center' }}>
-          <SketchField
-            width='1024px'
-            height='580px'
-            tool={Tools.Pencil}
-            lineColor='black'
-            lineWidth={3}
+          <CanvasDraw
+            style={{
+              boxShadow:
+                "0 13px 27px -5px rgba(50, 50, 93, 0.25),    0 8px 16px -8px rgba(0, 0, 0, 0.3)"
+            }}
+            canvasWidth={800}
+            canvasHeight={500}
           />
-
         </div>
       </div>
     )
