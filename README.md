@@ -1,6 +1,19 @@
+---
+author: Edson Ayllon
+category: bounty
+tags: 
+- node
+- express
+- react
+- javascript
+status: complete
+---
+
+## Project 4-2019
+
 # arweave canvas draw
 
-## 1 | Description 
+## 1. Description 
 
 Login with your AR wallet and paint on Canvas Draw. Simple painting app, minimal viable product. 
 
@@ -10,7 +23,7 @@ Live example at: [https://arweave.net/iERxf7S9wvoIP5KCREh6dxeHahM2zVkurNcbkNx3B5
 
 See it in Arweave Apps: [https://arweave.net/35IFq9BcIgpSPti9YDYDiaQy4wMfMIKZ25t7hHZrhek](https://arweave.net/35IFq9BcIgpSPti9YDYDiaQy4wMfMIKZ25t7hHZrhek)
 
-## 2 | Getting Started
+## 2. Getting Started
 
 Install dependencies within client.
 
@@ -28,7 +41,7 @@ yarn start
 ```
 
 
-## 3 | AR Weave Deploy
+## 3. AR Weave Deploy
 
 ### 2.2 Ready the build
 
