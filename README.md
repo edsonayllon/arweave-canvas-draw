@@ -11,7 +11,7 @@ status: complete
 
 ## Project 4-2019
 
-# arweave canvas draw
+# Arweave Canvas Draw
 
 ## 1. Description 
 
